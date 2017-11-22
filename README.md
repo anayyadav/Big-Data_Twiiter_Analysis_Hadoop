@@ -14,5 +14,3 @@ An example entry for the dataset (with no hashtags) is:
 ######B. TIME ANALYSIS You can find a Plot with time series with the number of Tweets that were posted each day of the event (one bar per day).
 
 ######C. HASHTAG ANALYSIS During the olympics the supporters from several countries were expressing their support by adding specific hashtags to its messages, in many cases with the form team__ (e.g. #teamgb). or, go___ (#gousa). You can find a table with all the team support hashtags you can find (based on these patterns), and the number of support messages.
-
-For complete set of analysis results, please check the pdf report
